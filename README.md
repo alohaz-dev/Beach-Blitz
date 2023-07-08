@@ -1,4 +1,4 @@
-![Beach Blitz Logo](https://ibb.co/2k0NMrG)
+![Beach Blitz Logo](https://i.ibb.co/yQmSkCH/logo-ui.png)
 
 # Beach Blitz
 **⚠️ Please note that code plagiarism is not allowed. See [the license](https://www.gnu.org/licenses/agpl-3.0.txt) for information.**
